@@ -1,0 +1,17 @@
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\AnimationStack.exe
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\AnimationStack.deps.json
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\AnimationStack.runtimeconfig.json
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\AnimationStack.dll
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\ref\AnimationStack.dll
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\bin\Debug\net6.0-windows\AnimationStack.pdb
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.frmBase.resources
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.AssemblyInfo.cs
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.dll
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\ref\AnimationStack.dll
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.pdb
+C:\Users\simon\Desktop\VISUAL_STUDIO\Animerge\Animerge\obj\Debug\net6.0-windows\AnimationStack.genruntimeconfig.cache
