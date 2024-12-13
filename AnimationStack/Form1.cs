@@ -338,7 +338,7 @@ namespace AnimationStack
         }
 
 
-        private void FolderMainTextBox_TextChanged(object sender, EventArgs e)
+        private void txtGroupByFolder_TextChanged(object sender, EventArgs e)
         {
             txtGroupByFolder.Select(txtGroupByFolder.Text.Length, 0);
         }
@@ -355,11 +355,6 @@ namespace AnimationStack
 
             numStartIndex.Enabled = isChecked;
             numIndexLength.Enabled = isChecked;
-        }
-
-        private void frmBase_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

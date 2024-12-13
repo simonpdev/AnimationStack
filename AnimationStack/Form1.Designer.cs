@@ -160,7 +160,7 @@
             this.txtGroupByFolder.Size = new System.Drawing.Size(519, 23);
             this.txtGroupByFolder.TabIndex = 27;
             this.txtGroupByFolder.TabStop = false;
-            this.txtGroupByFolder.TextChanged += new System.EventHandler(this.FolderMainTextBox_TextChanged);
+            this.txtGroupByFolder.TextChanged += new System.EventHandler(this.txtGroupByFolder_TextChanged);
             // 
             // numStartIndex
             // 
@@ -365,7 +365,6 @@
             this.Padding = new System.Windows.Forms.Padding(24);
             this.ShowIcon = false;
             this.Text = "AnimationStack";
-            this.Load += new System.EventHandler(this.frmBase_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numStartIndex)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numIndexLength)).EndInit();
             this.grpOutputIindex.ResumeLayout(false);
